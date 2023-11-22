@@ -1,10 +1,8 @@
-# Body-Mass-Index(BMI)-Java-GUI-Project-
- A Java Swing-based BMI Calculator for managing and knowning your Body Mass Index.
 <div align="center"> <a href="https://totalcross.com/" target="_blank"> <img src="./totalcross.gif" alt="totalcross logo"/></a></div>
 
 <div align="center"> 
-<h1> TotalCross</h1> </div>
-<p align="center">The fastest way to build GUI for embedded devices</strong></em></p>
+<h1> Body-Mass-Index(BMI)-Java-GUI-Project</h1> </div>
+<p align="center">A Java Swing-based BMI Calculator for managing and knowning your Body Mass Index. </strong></em></p>
 
 <div align="center">
  <a href="https://learn.totalcross.com/documentation/get-started" target="_blank">Get Started</a>
