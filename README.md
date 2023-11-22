@@ -7,15 +7,6 @@
  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
  <a href="https://drive.google.com/file/d/16pUxbPzrPmiCGJhdr9MaM4uCN8-g82Zv/view?usp=sharing" target="_blank">Get Me</a>
  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
- <a href="http://learn.totalcross.com/" target="_blank">Docs</a>
- <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
- <a href="https://medium.com/totalcross-community" target="_blank">Blog</a>
- <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
- <a href="https://t.me/totalcrosscommunity" target="_blank">Telegram</a>
- <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
- <a href="https://www.youtube.com/c/totalcross" target="_blank">Videos</a>
- <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
- <a href="https://totalcross.com/community/" target="_blank">Community</a>
 </div>
 
 ## Project Overview
@@ -24,10 +15,7 @@ This BMI Calculator gives your Body Mass Index as per your Height, Weight and AG
 
 ## Features
 
-- **Inventory Management**: Easily add, edit, and delete product details such as name, size, quantity, and price.
-- **User Management**: Manage employee and user accounts with secure authentication.
-- **Order Processing**: Create and process customer orders efficiently.
-- **Database Integration**: Seamlessly integrate with SQL Server to store and retrieve product and customer information.
+- **Data Entry Management**: Easily add, edit, and delete Name, age, height, weight.
 - **User-Friendly Interface**: A Java Swing-based GUI ensures a user-friendly experience.
 
 
@@ -43,11 +31,15 @@ To get started with this project, follow these steps:
 
 1.
 2.
-3.   Clone the repository to your local machine.
-4. Set up a SQL Server database and configure the database connection in the project.
+3. Clone the repository to your local machine.
+4. 
 5. Run the application and start managing your retail operations efficiently.
 
 ## Built With
 
 - Java Swing - For the graphical user interface.
-- SQL Server - For the database backend.
+
+### Where you can find me:
+
+- [Email](iqbaldaniyal20@gmail.com);
+- [Linkedin](https://www.linkedin.com/in/daniyal-iqbal-895908250/);
