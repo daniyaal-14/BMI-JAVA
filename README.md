@@ -1,5 +1,3 @@
-<div align="center"> <a href="https://totalcross.com/" target="_blank"> <img src="./totalcross.gif" alt="totalcross logo"/></a></div>
-
 <div align="center"> 
 <h1> Body-Mass-Index(BMI)-Java-GUI-Project</h1> </div>
 <p align="center">A Java Swing-based BMI Calculator for managing and knowning your Body Mass Index. </strong></em></p>
