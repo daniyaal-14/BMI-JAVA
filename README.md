@@ -3,9 +3,9 @@
 <p align="center">A Java Swing-based BMI Calculator for managing and knowning your Body Mass Index. </strong></em></p>
 
 <div align="center">
- <a href="https://netbeans.apache.org/front/main/" taregt="_blank">Get Started</a>
+ <a href="https://netbeans.apache.org/front/main/" taregt="_blank">NetBeans IDE</a>
  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
- <a href="https://totalcross.com/" target="_blank">Website</a>
+ <a href="https://drive.google.com/file/d/16pUxbPzrPmiCGJhdr9MaM4uCN8-g82Zv/view?usp=sharing" target="_blank">Get Me</a>
  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
  <a href="http://learn.totalcross.com/" target="_blank">Docs</a>
  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
